@@ -1,7 +1,26 @@
-# Vue 3 + Vite
+# Halloween 💀
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Website de vendar com tema de halloween
 
-## Recommended IDE Setup
+## Tecnologias Utilizadas
+- Node.js
+- Vue.js
+- SCSS
+- 
+## Como rodar
+No terminal do computador, execute os comandos  abaixo respectivamente:
+- Escolha a pasta onde gostaria de baixar o repositório;
+- Execute o comando "git clone https://github.com/MauricioFGF/halloween.git";
+- Na sua cmd, certifique-se de estar dentro da pasta final dos arquivos;
+- Execute o comando "yarn ou npm install" e espere baixar todas as dependências.
+- Execute o comando "yarn start ou npm start" para abrir o site.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Obs: é fundamental que você tenha instalado em sua computador o Node.js.
+
+## Desenvolvedores
+
+<table>
+  <tr>
+     <td align="center"><a href="https://github.com/MauricioFGF"><img src="https://i.imgur.com/crcg9Sz.jpeg" width="100px;" alt="Mauricio"/><br /><sub><b>Mauricio Felipe</b></sub></a><br/>  
+  </tr>
+</table>
