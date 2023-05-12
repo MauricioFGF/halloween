@@ -21,6 +21,6 @@ Obs: é fundamental que você tenha instalado em sua computador o Node.js.
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/MauricioFGF"><img src="https://i.imgur.com/crcg9Sz.jpeg" width="100px;" alt="Mauricio"/><br /><sub><b>Mauricio Felipe</b></sub></a><br/>  
+     <td align="center"><a href="https://github.com/MauricioFGF"><img src="https://avatars.githubusercontent.com/u/52111341?v=4" width="100px;" alt="Mauricio"/><br /><sub><b>Mauricio Felipe</b></sub></a><br/>  
   </tr>
 </table>
