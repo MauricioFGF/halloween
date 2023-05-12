@@ -1,0 +1,29 @@
+.about {
+  &__container {
+    row-gap: 2rem;
+  }
+  &__data {
+    text-align: center;
+  }
+  &__description {
+    margin-bottom: var(--mb-2);
+  }
+  &__img {
+    width: 200px;
+    justify-self: center;
+    position: relative;
+    animation: floating 2s ease-in-out infinite;
+  }
+}
+
+@keyframes floating {
+  0% {
+    transform: translate(0, 0px);
+  }
+  50% {
+    transform: translate(0, 15px);
+  }
+  100% {
+    transform: translate(0, 0px);
+  }
+}
