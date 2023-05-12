@@ -6,7 +6,7 @@ Website de vendar com tema de halloween
 - Node.js
 - Vue.js
 - SCSS
-- 
+
 ## Como rodar
 No terminal do computador, execute os comandos  abaixo respectivamente:
 - Escolha a pasta onde gostaria de baixar o repositório;
