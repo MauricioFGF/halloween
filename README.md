@@ -3,9 +3,9 @@
 Website de vendar com tema de halloween
 
 ## Tecnologias Utilizadas
-- Node.js
-- Vue.js
-- SCSS
+- <img align="left" alt="NodeJS" width="15px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node.js
+- <img align="left" alt="Vue" width="12px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/52111341/236700567-b91a6fed-cbc1-411c-b0cf-89c7fa7caf09.svg" /> Vue.js
+- <img align="left" alt="SASS" width="15px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> SCSS
 
 ## Como rodar
 No terminal do computador, execute os comandos  abaixo respectivamente:
